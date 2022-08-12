@@ -1,0 +1,3 @@
+export const PLANET_ITEM_HEIGHT = 60;
+
+export const PLANET_ITEM_VERTICAL_MARGIN = 10;
